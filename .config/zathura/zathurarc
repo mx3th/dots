@@ -1,0 +1,24 @@
+#directory: ~/.config/zathura/zathurarc
+
+# Open document in fit-width mode by default
+set adjust-open "best-fit"
+
+# One page per row by default
+set pages-per-row 1
+
+#stop at page boundries
+set scroll-page-aware "true"
+set scroll-full-overlap 0.01
+set scroll-step 100
+
+set zoom-min 10
+set guioptions none
+
+# set font "SAGA Heavy 14"
+set default-bg "#1d2021"
+
+set render-loading "true"
+set scroll-step 100
+unmap f
+map f toggle_fullscreen
+map [fullscreen] f toggle_fullscreen

@@ -1,0 +1,5 @@
+require("main.autostart")
+require("main.errors")
+require("main.keys")
+require("main.rules")
+require("main.signals")
