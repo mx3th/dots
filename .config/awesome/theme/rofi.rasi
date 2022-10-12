@@ -49,7 +49,7 @@ entry {
     expand:                         true;
     horizontal-align:               0;
     placeholder:                    "Type here to search";
-    font:							"Roboto Bold 12";
+    font:							"SAGA Heavy 12";
     blink:                          true;
     padding:                        10px;
 }
