@@ -5,9 +5,6 @@
 - Wallpapers by [@Dino_illus](https://twitter.com/Dino_illus).
 - Colors: [Gruvbox](https://github.com/morhetz/gruvbox).
 
-<!-- PREVIEW -->
-![preview](https://user-images.githubusercontent.com/97992750/195417308-8908165b-c84c-4a45-a783-ecfef39a5120.png)
-
 <!-- Dependencies -->
 ## <samp><b>Dependencies</b></samp>
 
