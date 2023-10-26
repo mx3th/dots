@@ -2,7 +2,7 @@
   AwesomeWM Edgerunners
 </h1>
 
-![lucy](https://github.com/mx3th/dots/assets/97992750/77ed724f-3188-4efa-a40c-83019ceb819a)
+![lucy](https://github.com/mx3th/dots/assets/97992750/1089f295-1888-498e-b04a-c1a403d50302)
 
 - Wallpapers by [@Dino_illus](https://twitter.com/Dino_illus).
 - Colors: [Gruvbox](https://github.com/morhetz/gruvbox).
